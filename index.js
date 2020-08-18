@@ -6,6 +6,7 @@ function buyCake(){
         type: BUY_CAKE,
         info: 'Cakes in Store'
     }
+    
 }
 const initialState = {
     numberOfCakes: 10
